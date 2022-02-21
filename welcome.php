@@ -35,7 +35,7 @@ include "Sidenavbar.php";
       <div class="col-md-6 col-sm-6 col-lg-6 col-xl-3">
         <div class="card dash-widget">
           <div class="card-body">
-            <span class="dash-widget-icon"><i class="fa fa-cubes"></i></span>
+            <span class="dash-widget-icon"><img alt="Move icon" srcset="https://img.icons8.com/nolan/40/D9E021/FB872B/move.png"></i></span>
               <div class="dash-widget-info">
                 <!--number of pending moves-->
                 <h3>112</h3>
@@ -49,7 +49,7 @@ include "Sidenavbar.php";
       <div class="col-md-6 col-sm-6 col-lg-6 col-xl-3">
         <div class="card dash-widget">
           <div class="card-body">
-            <span class="dash-widget-icon"><i class="fa fa-usd"></i></span>
+            <span class="dash-widget-icon"><img alt="Semi Truck icon" srcset="https://img.icons8.com/nolan/40/D9E021/FB872B/interstate-truck.png"></span>
             <div class="dash-widget-info">
               <!--Number of xpo-->
               <h3>44</h3>
@@ -63,7 +63,8 @@ include "Sidenavbar.php";
       <div class="col-md-6 col-sm-6 col-lg-6 col-xl-3">
         <div class="card dash-widget">
           <div class="card-body">
-            <span class="dash-widget-icon"><i class="fa fa-diamond"></i></span>
+            <span class="dash-widget-icon"><img alt="Fork Lift icon" srcset="https://img.icons8.com/nolan/40/D9E021/FB872B/fork-lift.png">
+            </span>
             <div class="dash-widget-info">
               <!--Live loads-->
               <h3>37</h3>
@@ -77,7 +78,8 @@ include "Sidenavbar.php";
       <div class="col-md-6 col-sm-6 col-lg-6 col-xl-3">
         <div class="card dash-widget">
           <div class="card-body">
-            <span class="dash-widget-icon"><i class="fa fa-user"></i></span>
+            <span class="dash-widget-icon"><img alt="Truck icon" srcset="https://img.icons8.com/nolan/40/D9E021/FB872B/truck.png">
+          </span>
             <div class="dash-widget-info">
               <h3>+
               <!--Only counts total containers need a joined stament-->

@@ -25,9 +25,18 @@
     <link rel="stylesheet" href="assets/css/select2.min.css">
     
     <link rel="stylesheet" href="assets/css/bootstrap-datetimepicker.min.css">
+
+    <link rel="stylesheet" href="assets/css/fullcalendar.min.css">
     
     <!-- can only use an edited version of the css sheet-->
     <link rel="stylesheet" href="/assets/css/style2.css">
+    <!--added not working-->
+    <style>
+        .header {
+            position: sticky;
+            top:0;
+        }
+    </style>
   </head>
 
   <body>

@@ -1,0 +1,7 @@
+#This is 404 Error Page to Show
+
+ErrorDocument 404 http://moves/error_404.php
+
+#This will disable Indexing of Directory
+
+#Options -Indexes
